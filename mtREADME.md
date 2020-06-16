@@ -1,0 +1,9 @@
+# mt-app
+使用nuxt.js完成仿美团pc
+做了服务端渲染SSR
+有使用到远程接口配合本地数据库mongodb
+有做页面登录权限拦截
+使用了element-ui库实现页面设计
+后端使用ko2
+有用redis存储session加密用户信息
+以及vuex实现了axios请求数据后的数据交互，及在actions中使用nuxtServerInit将服务端的一些数据传到客户端，可以通过这个获取保存在状态中，实现客户端渲染
