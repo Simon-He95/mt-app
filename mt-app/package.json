@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.10.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1",
